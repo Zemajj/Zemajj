@@ -23,13 +23,11 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logoColor=white)
-![PDO](https://img.shields.io/badge/PDO-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ### Tools
 
 ![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ### Frontend Basics
 
@@ -53,11 +51,21 @@ A REST API for task management built with Laravel 13. It provides CRUD operation
 
 ## Learning Next
 
+### Backend and Development Tools
+
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 I plan to use these tools when a real project task requires them.
+
+### Frontend Roadmap
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+I am currently strengthening my HTML, CSS, responsive design, Flexbox, CSS Grid, and Vanilla JavaScript skills. After building a solid foundation, I plan to learn TypeScript, React, and Tailwind CSS.
 
 <!--
 Banner source and license notes: ./ASSET-SOURCES.md
