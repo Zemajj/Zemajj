@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Semyon 👋</h1>
 
-<p align="center">
+<h3 align="center">
   I am learning PHP backend development and building web applications step by step.
-</p>
+</h3>
 
 <div align="center">
   <img src="./assets/star-passing.gif" width="700" alt="Animated coding workspace at sunset">
@@ -65,7 +65,7 @@ I plan to use these tools when a real project task requires them.
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-I am currently strengthening my HTML, CSS, responsive design, Flexbox, CSS Grid, and Vanilla JavaScript skills. After building a solid foundation, I plan to learn TypeScript, React, and Tailwind CSS.
+I plan to strengthen my HTML, CSS, responsive design, Flexbox, CSS Grid, and Vanilla JavaScript skills. After building a solid foundation, I plan to learn TypeScript, React, and Tailwind CSS.
 
 <!--
 Banner source and license notes: ./ASSET-SOURCES.md
