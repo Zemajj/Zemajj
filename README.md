@@ -31,6 +31,7 @@
 
 ![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Bruno](https://img.shields.io/badge/Bruno-F4AA41?style=flat-square&logo=bruno&logoColor=white)
 
 ## Featured Projects / Основные проекты
 
